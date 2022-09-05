@@ -58,11 +58,8 @@ AUTHORS
 This file contains the details of all the individuals that contributed to this shell project.
 Features
 
-    DIsplay a prompt and wait for the user to type a command. A command-line always ends with a new line.
+    Display a prompt and wait for the user to type a command. A command-line always ends with a new line.
     The prompt is displayed again each time a command has been executed.
     The command lines are simple, no semicolons, no pipes, no redirections, or any other advanced features.
-    The command lines are made only of one word.No arguement will be passed to the programs. 5.If an executable is not found the shell prints an error message and displayu the prompt again.
+    The command lines are made only of one word.No argument will be passed to the programs. 5.If an executable is not found the shell prints an error message and displayu the prompt again.
 
-Credits
-
-All codes written by Ademola Glory and Spencer. Kamayo.
